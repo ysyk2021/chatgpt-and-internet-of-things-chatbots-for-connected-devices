@@ -1,5 +1,3 @@
-Benefits of using AI and chatbots for IoT industry
-=================================================================================================
 
 The Internet of Things (IoT) has rapidly grown in recent years, connecting various devices to the internet to enhance their functionality. With this growth, there has been an increased interest in implementing Artificial Intelligence (AI) and chatbots into connected devices to create a more personalized and efficient user experience. In this chapter, we will discuss the benefits of using AI and chatbots in the IoT industry.
 

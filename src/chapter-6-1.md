@@ -1,5 +1,3 @@
-Steps to implement ChatGPT in IoT industry
-===========================================================================================
 
 Implementing ChatGPT in the Internet of Things (IoT) industry can enhance user experience and improve efficiency. However, it is essential to follow a specific set of steps to ensure that ChatGPT is implemented effectively and efficiently. In this chapter, we will explore the steps to implement ChatGPT in IoT industry.
 

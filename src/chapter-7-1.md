@@ -1,5 +1,3 @@
-Potential advancements in IoT industry with ChatGPT
-===================================================================================================
 
 The integration of ChatGPT in the Internet of Things (IoT) industry has already shown promising results in enhancing user experience and improving efficiency. However, there is still much potential for future advancements in the IoT industry with ChatGPT. In this chapter, we will explore some of the potential advancements that can be made in the IoT industry with ChatGPT.
 

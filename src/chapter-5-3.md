@@ -1,5 +1,3 @@
-How ChatGPT can be used for creating chatbots for connected devices in IoT
-============================================================================================================
 
 ChatGPT is a state-of-the-art natural language processing (NLP) model that uses deep learning algorithms to generate human-like text. The model is based on the GPT (Generative Pre-training Transformer) architecture and was developed by OpenAI.
 

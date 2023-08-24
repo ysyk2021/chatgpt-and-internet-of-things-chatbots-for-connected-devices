@@ -1,5 +1,3 @@
-Overview of the book
-==================================
 
 This book, "ChatGPT and Internet of Things: Chatbots for Connected Devices," explores the intersection of natural language processing (NLP), machine learning, and the Internet of Things (IoT). In this book, we will examine how chatbots can be used to enhance user experience with connected devices in various IoT use cases.
 

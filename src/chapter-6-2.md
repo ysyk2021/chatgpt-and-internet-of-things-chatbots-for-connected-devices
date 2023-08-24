@@ -1,5 +1,3 @@
-Best practices for using ChatGPT in creating chatbots for connected devices
-============================================================================================================================
 
 Chatbots powered by ChatGPT have the potential to enhance user experience with connected devices in the Internet of Things (IoT) industry. However, to ensure that chatbots are effective and engaging, it is essential to follow best practices for using ChatGPT in creating chatbots for connected devices. In this chapter, we will explore these best practices.
 

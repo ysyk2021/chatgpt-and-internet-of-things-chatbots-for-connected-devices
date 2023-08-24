@@ -1,5 +1,3 @@
-Chapter 1: Basics of Internet of Things (IoT)
-=============================================
 
 Definition of IoT
 -----------------

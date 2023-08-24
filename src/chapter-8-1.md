@@ -1,5 +1,3 @@
-Summary of Key Points
-=================================
 
 In this book, we explored the integration of ChatGPT in the Internet of Things (IoT) industry and its potential for enhancing user experience and improving efficiency in various domains. Here is a summary of the key points discussed in each chapter:
 

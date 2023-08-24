@@ -1,5 +1,3 @@
-Factors affecting IoT industry
-=====================================================================
 
 The Internet of Things (IoT) industry is rapidly growing, connecting various devices to the internet to enhance their functionality. However, there are several challenges that must be addressed for the IoT industry to reach its full potential. In this chapter, we will discuss the factors affecting the IoT industry and the challenges they present.
 

@@ -1,5 +1,3 @@
-Different types of connected devices
-===================================================================================
 
 The Internet of Things (IoT) refers to the interconnection of physical devices, vehicles, buildings, and other objects that are embedded with sensors, software, and network connectivity. These connected devices can be used for various purposes, including monitoring and controlling environments, tracking assets, and automating routine tasks. In this chapter, we will explore different types of connected devices in IoT.
 

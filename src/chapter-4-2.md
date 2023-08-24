@@ -1,5 +1,3 @@
-How AI and chatbots can improve user experience with connected devices in IoT
-============================================================================================================================
 
 The Internet of Things (IoT) is transforming the way we interact with technology, enabling us to connect and control a vast network of devices. The use of AI and chatbots can further enhance the user experience by providing more intuitive and personalized interactions. In this chapter, we will explore the role of AI and chatbots in IoT and how they can improve the user experience with connected devices.
 

@@ -1,5 +1,3 @@
-Introduction to AI and chatbots
-==============================================================================
 
 The Internet of Things (IoT) has transformed the way we interact with technology, enabling us to connect and control a vast network of devices. The use of Artificial Intelligence (AI) and chatbots can further enhance the user experience by providing more intuitive and personalized interactions. In this chapter, we will explore the role of AI and chatbots in IoT and provide an introduction to these technologies.
 

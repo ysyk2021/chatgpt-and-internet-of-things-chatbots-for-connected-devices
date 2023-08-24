@@ -1,5 +1,3 @@
-Definition of IoT
-================================================================
 
 The Internet of Things (IoT) refers to the interconnection of physical devices, vehicles, buildings, and other objects that are embedded with sensors, software, and network connectivity, enabling them to collect and exchange data. These connected devices can communicate with each other and with cloud-based systems, providing real-time data that can be used for various purposes.
 

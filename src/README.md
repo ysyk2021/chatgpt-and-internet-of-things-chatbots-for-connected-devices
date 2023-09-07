@@ -6,3 +6,7 @@ This book, "ChatGPT and Internet of Things: Chatbots for Connected Devices," exp
 By exploring the combination of conversational AI and IoT through ChatGPT, this book aims to equip readers with the knowledge and understanding necessary to develop and deploy chatbots for connected devices and improve overall efficiency and productivity. Whether you are an industry professional or someone curious about the tremendous potential of artificial intelligence and IoT, this book offers insights and practical knowledge that will inspire and inform.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

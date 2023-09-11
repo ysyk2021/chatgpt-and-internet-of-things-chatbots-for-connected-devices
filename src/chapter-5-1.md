@@ -1,5 +1,4 @@
-Chapter 1: What is ChatGPT?
-===========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Internet of Things Chatbots for Connected Devices," we will explore the concept of ChatGPT and its significance in the context of IoT chatbots for connected devices.
 

@@ -1,5 +1,4 @@
-Chapter 1: Introduction to AI and Chatbots
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In today's digital era, Artificial Intelligence (AI) and chatbots have become increasingly prevalent, transforming the way we interact with technology. This chapter serves as an introduction to AI and chatbots, providing a foundational understanding of these concepts in the context of connected devices in the Internet of Things (IoT).
 

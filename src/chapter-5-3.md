@@ -1,5 +1,4 @@
-Chapter 4: How ChatGPT Can Be Used for Creating Chatbots for Connected Devices in IoT
-=====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how ChatGPT - a state-of-the-art language model developed by OpenAI - can be used to create chatbots for connected devices in the Internet of Things (IoT) landscape.
 

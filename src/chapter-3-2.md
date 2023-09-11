@@ -1,5 +1,4 @@
-Chapter 4: Common Challenges Faced by IoT Device Manufacturers
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Internet of Things Chatbots for Connected Devices," we will explore the common challenges faced by IoT device manufacturers in today's fast-paced and evolving landscape.
 

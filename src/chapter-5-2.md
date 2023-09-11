@@ -1,5 +1,4 @@
-Chapter 3: Features and Capabilities of ChatGPT
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 ChatGPT, developed by OpenAI, is a powerful language model that offers a wide range of features and capabilities. In this chapter, we will explore the key features of ChatGPT that make it an exceptional tool for creating chatbots for connected devices in the Internet of Things (IoT) landscape.
 

@@ -1,5 +1,4 @@
-Chapter 2: Definition of IoT
-============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will provide a comprehensive definition of the Internet of Things (IoT) and explore its key components and characteristics.
 

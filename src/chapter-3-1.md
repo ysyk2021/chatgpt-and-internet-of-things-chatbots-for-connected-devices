@@ -1,5 +1,4 @@
-Chapter 6: Factors Affecting the IoT Industry
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Internet of Things Chatbots for Connected Devices," we will examine the various factors that impact the IoT industry. These factors shape the growth, development, and adoption of IoT technologies and have a significant influence on the future of connected devices.
 

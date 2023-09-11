@@ -1,5 +1,4 @@
-Chapter 3: Different Types of Connected Devices
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of connected devices that form the foundation of the Internet of Things (IoT) ecosystem. These devices come in various forms and serve diverse purposes across different industries.
 

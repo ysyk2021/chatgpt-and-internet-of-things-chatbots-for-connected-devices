@@ -1,5 +1,4 @@
-Chapter 6: Best Practices for Using ChatGPT in Creating Chatbots for Connected Devices
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 When leveraging ChatGPT to build chatbots for connected devices in the Internet of Things (IoT) domain, following best practices can enhance the user experience and maximize the effectiveness of the chatbot. In this chapter, we will explore key guidelines and recommendations for utilizing ChatGPT effectively in creating chatbots for connected devices.
 

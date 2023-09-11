@@ -1,5 +1,4 @@
-Chapter 7: Conclusion and Future Outlook
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this final chapter of "ChatGPT and Internet of Things Chatbots for Connected Devices," we will summarize the key points discussed throughout the book and provide a glimpse into the future outlook of IoT chatbots powered by ChatGPT.
 

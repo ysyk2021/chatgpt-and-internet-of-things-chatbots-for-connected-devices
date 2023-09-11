@@ -1,5 +1,4 @@
-Chapter 6: Emerging Trends and Challenges in IoT and ChatGPT
-============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will discuss the emerging trends and challenges in the intersection of the Internet of Things (IoT) and ChatGPT. As the use of IoT chatbots powered by ChatGPT continues to increase, new opportunities and challenges are arising that must be considered.
 

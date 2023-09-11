@@ -1,5 +1,4 @@
-Chapter 5: Potential Advancements in the IoT Industry with ChatGPT
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential advancements that can be achieved in the Internet of Things (IoT) industry by leveraging the power of ChatGPT. ChatGPT, a cutting-edge language model developed by OpenAI, has the potential to revolutionize various aspects of the IoT landscape and unlock new opportunities for innovation.
 

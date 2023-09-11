@@ -1,5 +1,4 @@
-Chapter 7: Case Studies of Successful ChatGPT Implementations in IoT Devices
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world case studies of companies that have successfully implemented ChatGPT in their Internet of Things (IoT) devices. These case studies highlight the innovative applications and benefits of incorporating AI-powered chatbots into connected devices.
 

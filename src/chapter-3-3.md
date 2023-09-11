@@ -1,5 +1,4 @@
-Chapter 5: Impact of These Challenges on User Experience and Adoption of Connected Devices
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter of "ChatGPT and Internet of Things Chatbots for Connected Devices," we will examine the impact of emerging challenges in the IoT and ChatGPT landscape on the user experience and adoption of connected devices.
 

@@ -1,5 +1,4 @@
-Chapter 4: Benefits of Using AI and Chatbots for the IoT Industry
-=================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the numerous benefits that arise from incorporating Artificial Intelligence (AI) and chatbots into the Internet of Things (IoT) industry. These technologies bring about significant improvements in efficiency, user experience, and operational capabilities.
 
